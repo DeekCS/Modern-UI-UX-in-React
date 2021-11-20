@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/DeekCS/Modern-UI-UX-in-React/static/css/main.53d1df3f.chunk.css",
+    "main.js": "/DeekCS/Modern-UI-UX-in-React/static/js/main.d6e07f1c.chunk.js",
+    "main.js.map": "/DeekCS/Modern-UI-UX-in-React/static/js/main.d6e07f1c.chunk.js.map",
+    "runtime-main.js": "/DeekCS/Modern-UI-UX-in-React/static/js/runtime-main.7911ecbb.js",
+    "runtime-main.js.map": "/DeekCS/Modern-UI-UX-in-React/static/js/runtime-main.7911ecbb.js.map",
+    "static/js/2.ab3a8a27.chunk.js": "/DeekCS/Modern-UI-UX-in-React/static/js/2.ab3a8a27.chunk.js",
+    "static/js/2.ab3a8a27.chunk.js.map": "/DeekCS/Modern-UI-UX-in-React/static/js/2.ab3a8a27.chunk.js.map",
+    "index.html": "/DeekCS/Modern-UI-UX-in-React/index.html",
+    "precache-manifest.18f581b003814eca35fa3b4b69c63d50.js": "/DeekCS/Modern-UI-UX-in-React/precache-manifest.18f581b003814eca35fa3b4b69c63d50.js",
+    "service-worker.js": "/DeekCS/Modern-UI-UX-in-React/service-worker.js",
+    "static/css/main.53d1df3f.chunk.css.map": "/DeekCS/Modern-UI-UX-in-React/static/css/main.53d1df3f.chunk.css.map",
+    "static/js/2.ab3a8a27.chunk.js.LICENSE.txt": "/DeekCS/Modern-UI-UX-in-React/static/js/2.ab3a8a27.chunk.js.LICENSE.txt",
+    "static/media/ai.png": "/DeekCS/Modern-UI-UX-in-React/static/media/ai.17ade557.png",
+    "static/media/blog01.png": "/DeekCS/Modern-UI-UX-in-React/static/media/blog01.fea810ed.png",
+    "static/media/blog02.png": "/DeekCS/Modern-UI-UX-in-React/static/media/blog02.e76b2c16.png",
+    "static/media/blog03.png": "/DeekCS/Modern-UI-UX-in-React/static/media/blog03.404d1a40.png",
+    "static/media/blog04.png": "/DeekCS/Modern-UI-UX-in-React/static/media/blog04.d682b195.png",
+    "static/media/blog05.png": "/DeekCS/Modern-UI-UX-in-React/static/media/blog05.576efe18.png",
+    "static/media/logo.svg": "/DeekCS/Modern-UI-UX-in-React/static/media/logo.56c4dcf7.svg",
+    "static/media/people.png": "/DeekCS/Modern-UI-UX-in-React/static/media/people.3d848993.png",
+    "static/media/possibility.png": "/DeekCS/Modern-UI-UX-in-React/static/media/possibility.3c84ae26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7911ecbb.js",
+    "static/js/2.ab3a8a27.chunk.js",
+    "static/css/main.53d1df3f.chunk.css",
+    "static/js/main.d6e07f1c.chunk.js"
+  ]
+}
